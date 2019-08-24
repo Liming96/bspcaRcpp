@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1566629906450.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3219807906",
+    "id" : "532E0FB9",
+    "lastKnownWriteTime" : 1566629944,
+    "last_content_update" : 1566629944197,
+    "path" : "C:/Users/lidam/Desktop/paper/R_proj/bspcaRcpp/src/spca_Rcpp.cpp",
+    "project_path" : "src/spca_Rcpp.cpp",
+    "properties" : {
+        "cursorPosition" : "125,0",
+        "scrollLine" : "104",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "cpp"
+}

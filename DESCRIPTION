@@ -1,0 +1,15 @@
+Package: bspcaRcpp
+Type: Package
+Title: Get Sparse PC loadings by BessPCA method
+Version: 1.0
+Date: 2019-08-24
+Author: LiMing
+Maintainer: LiMing<lidaming@mail.ustc.edu.cn>
+Description: Sparse PCA.
+License: GPL (>= 2)
+Encoding: UTF-8
+Imports: Rcpp (>= 1.0.2), RcppArmadillo
+LinkingTo: Rcpp, RcppArmadillo
+RoxygenNote: 6.1.1
+URL: http://github.com/Liming96/bspcaRcpp
+BugReports: http://github.com/Liming96/bspcaRcpp/issues
